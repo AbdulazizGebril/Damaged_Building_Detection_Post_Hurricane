@@ -2,9 +2,9 @@
 
 (1) Codes:
 
-(a) Pretrained model ( AlexNet, VGG-16 and ResNet50)
+    (a) Pretrained model ( AlexNet, VGG-16 and ResNet50)
 
-(b) Custom model
+    (b) Custom model
 
 (2) Final-Group-Project-Presentation
 
