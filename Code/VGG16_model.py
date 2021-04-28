@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score, f1_score
 from sklearn.metrics import confusion_matrix
 from PIL import Image
 import seaborn as sns
-#os.system("sudo wget https://storage.googleapis.com/satellite_images_post_harvey/Satellite_images.zip")
+os.system("sudo wget https://storage.googleapis.com/satellite_images_post_harvey/Satellite_images.zip")
 os.system("sudo unzip Satellite_images.zip")
 
 def imshow(image):
