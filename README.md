@@ -6,6 +6,6 @@
 
     (b) Custom model
 
-(2) Final-Group-Project-Presentation
+(2) Final-Project-Presentation
 
-(3) Final-Group-Project-Report
+(3) Final-Project-Report
